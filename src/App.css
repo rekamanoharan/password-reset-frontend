@@ -1,0 +1,36 @@
+body
+{
+  background-color: whitesmoke;
+}
+
+#signup,#login
+{
+  width:30rem;
+  padding:2rem 4rem;
+  margin: auto;
+  margin-top:3rem;
+  border-radius:10px;
+}
+
+label{
+  font-size:13px;
+}
+
+#forgotpage
+{
+  width:30rem;
+  padding:4rem;
+  margin: auto;
+  height:15rem;
+  margin-top:7rem;
+  border-radius:10px;
+}
+#changepassword
+{
+  width:25rem;
+  padding:3rem;
+  margin: auto;
+  height:15rem;
+  margin-top:7rem;
+  border-radius:10px;
+}
